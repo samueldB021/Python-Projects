@@ -1,0 +1,8 @@
+SUDOKU SOLVER
+
+A Python file written to solve a given Sudoku code, following a tutorial found here: 
+Part 1: https://www.youtube.com/watch?v=5s_lGC2sxwQ&list=PLRsIcLlqvOman-E5ThkMQ3lsoGFgXtXmq&index=5
+Part 2: https://www.youtube.com/watch?v=lK4N8E6uNr4&list=PLRsIcLlqvOman-E5ThkMQ3lsoGFgXtXmq&index=15
+
+Date: 18-19 December 2022
+Written by: Sithu Myint Shwe
